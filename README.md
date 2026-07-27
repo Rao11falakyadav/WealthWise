@@ -309,16 +309,6 @@ src/
 
 This project was developed as part of **Girl Hack Delhi 2026 Hackathon** for educational and demonstration purposes.
 
----
-
-# 🌟 Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
-It motivates us to continue building impactful solutions.
-
----
-
 <div align="center">
 
 ### 💜 Built with passion for empowering women through financial literacy.
