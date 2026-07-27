@@ -303,8 +303,6 @@ src/
 
 **Falak Yadav**
 
-**Role:** Co-Founder & CTO
-
 ---
 
 # 📜 License
